@@ -1,11 +1,11 @@
 package eu.pmkr;
 
-public record ScriptParameters(
+record ScriptParameters(
     String name,
     String[] aliases,
-    String path,
-    String permission,
+    String[] path,
     boolean allowArgs,
+    String permission,
     boolean sendBroadcasts,
     String broadcastPermission,
     String startMessage,
