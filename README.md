@@ -2,6 +2,10 @@
 
 Run child processes with custom Velocity commands on your Minecraft network. A very lightweight and configurable plugin.
 
+<!-- [![Available on Modrinth](/assets/modrinth_vector.svg)](https://modrinth.com/project/KeBIhOih) -->
+[![Available on Hangar](/assets/hangar_vector.svg)](https://hangar.papermc.io/pm_k_r/process-commands-velocity)
+[![Available on GitHub](/assets/github_vector.svg)](https://github.com/pm-k-r/process-commands-velocity)
+
 ## Configuration
 
 This plugin is configured in its `scripts.json` file. It should include a list of objects whose properties are described below. An example valid configuration is automatically generated on plugin load if the file doesn't exit.
