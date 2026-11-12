@@ -1,4 +1,4 @@
-package eu.pmkr;
+package eu.pmkr.pcv;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
@@ -25,7 +25,7 @@ import java.util.List;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-@Plugin(id = "process-commands-velocity", name = "Process Commands", version = "1.0.0",
+@Plugin(id = "process-commands-velocity", name = "Process Commands", version = "1.0.1",
         url = "https://github.com/pm-k-r/process-commands-velocity", authors = {"pm_k_r"},
         description = "Run child processes with custom Velocity commands")
 public final class ProcessCommandsVelocity {

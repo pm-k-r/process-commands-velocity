@@ -1,4 +1,4 @@
-package eu.pmkr;
+package eu.pmkr.pcv;
 
 record ScriptParameters(
     String name,

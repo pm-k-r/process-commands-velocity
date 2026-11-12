@@ -1,4 +1,4 @@
-package eu.pmkr;
+package eu.pmkr.pcv;
 
 import com.velocitypowered.api.command.RawCommand;
 import com.velocitypowered.api.proxy.ConsoleCommandSource;
